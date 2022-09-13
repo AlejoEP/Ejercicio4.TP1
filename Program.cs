@@ -11,7 +11,7 @@ namespace Ejercicio4
 
 while (opcion)
 {
-    Console.WriteLine("Ingrese un numero del mes del 1 al 12:");
+    Console.WriteLine("Ingrese un numero del mes del 1 al 12 Aguate el millo:");
     int num = int.Parse(Console.ReadLine());
 
     if (num > 0 & num < 13) {
